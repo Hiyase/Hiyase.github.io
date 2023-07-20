@@ -15,15 +15,15 @@ url = "https://github.com/Hiyase"
 icon = "brand-github"
 
 [[social]]
-identifier = "telegram"
-name = "Telegram"
-url = "https://github.com/Hiyase"
-[social.params]
-icon = "brand-telegram"
-
-[[social]]
 identifier = "twitter"
 name = "Twitter"
 url = "https://twitter.com"
 [social.params]
 icon = "brand-twitter"
+
+[[social]]
+identifier = "telegram"
+name = "Telegram"
+url = "https://github.com/Hiyase"
+[social.params]
+icon = "brand-telegram"
