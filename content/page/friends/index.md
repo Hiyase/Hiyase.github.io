@@ -1,14 +1,4 @@
 ---
-title: 友链
-slug: friends
-menu:
-    main: 
-        weight: 4
-        params:
-            icon: link
-
-comments: false #是否开启评论
-
 links:
   - title: 冷曦的喵喵小屋
     description: 愿每个人都被温柔以待
@@ -38,23 +28,29 @@ links:
     description: 知晓天空之蓝的人啊
     website: https://dalaoshi777.github.io/
     image: http://q.qlogo.cn/headimg_dl?dst_uin=2689548185&spec=640&img_type=jpg
-  - title: 一个通向 Google 的示范链接
-    description: 你要说什么嘛～
-    website: https://www.Google.com/
-    image: https://upload.wikimedia.org/wikipedia/commons/5/53/Google_%22G%22_Logo.svg
+  - title: 
+    description: 
+    website: 
+    image: 
+
+#留给下一个人自己填写
+
+title: 友链
+slug: friends
+menu:
+    main: 
+        weight: 4
+        params:
+            icon: link
+
+comments: false #是否开启评论
 ---
-我的友链都在这！
-示例：
+我的友链都在这！ 申请友链可以在 [Github 修改此页面](https://github.com/Hiyase/Hiyase.github.io/edit/master/content/page/friends/index.md) 然后创建 Pull Request 或者直接联系我  
+本站信息：
 
 ```yaml
-title: 叫什么名字呢～ 
-description: 要说些什么呢～
-website: 你的网站～
-image: 头像图片～
+title: 冷曦的喵喵小屋
+description: 愿每个人都被温柔以待
+website: https://Hiyase.github.io
+image: https://Hiyase.github.io/friends/img/hiyase.github.io.jpeg
 ```
-
-<!-- title: 
-description: 
-website: 
-image: 
- -->
