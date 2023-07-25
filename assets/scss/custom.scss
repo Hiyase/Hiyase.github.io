@@ -15,11 +15,7 @@
 			background: var(--card-background);
 			border: none;
 			box-shadow: var(--shadow-l2);
-			margin-bottom: 8px;
 			border-radius: var(--card-border-radius);
-			&:nth-child(odd) {
-				margin-right: 8px;
-			}
 		}
 	}
 }
