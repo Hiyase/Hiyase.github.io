@@ -24,10 +24,6 @@ links:
     description: 我们生活在大地上，但我们的梦想超越天空
     website: https://www.mbrjun.cn/
     image: https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg
-  - title: 小三玖のblog
-    description: 知晓天空之蓝的人啊
-    website: https://dalaoshi777.github.io/
-    image: http://q.qlogo.cn/headimg_dl?dst_uin=2689548185&spec=640&img_type=jpg
   - title: 
     description: 
     website: 
@@ -45,7 +41,7 @@ menu:
 
 comments: false #是否开启评论
 ---
-我的友链都在这！ 申请友链可以在 [Github 修改此页面](https://github.com/Hiyase/Hiyase.github.io/edit/master/content/page/friends/index.md) 然后创建 Pull Request 或者直接联系我  
+我的友链都在这！ 申请友链可以在 [Github 修改此页面](https://github.com/Hiyase/Hiyase.github.io/edit/master/content/page/friends/index.md) 然后创建 Pull Request 或者直接联系我 **眼熟程度不够的话是不会加的哦**（x  
 本站信息：
 
 ```yaml
