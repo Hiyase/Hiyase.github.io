@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/avatar.jpeg"
 
 [footer]
-since = 2020
-customText = ""
+since = 2023
+customText = "Hiyase’s Blog"
 
 [dateFormat]
 published = "Jan 02, 2006"
