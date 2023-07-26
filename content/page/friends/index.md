@@ -8,6 +8,10 @@ links:
     description: 童话只美在真实却从不续写
     website: https://skk.moe/
     image: https://cdn.skk.moe/avatar/512x512.png
+  - title: Remi IO
+    description: Code & Kigurumi
+    website: https://linux.dog
+    image: https://www.linux.dog/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FRemi_IO_avatar.fb658679.jpeg&w=256&q=75
   - title: MlgmXyysd's Cat Nest
     description: 欢迎来猫窝，喵。
     website: https://neko.ink/
@@ -24,10 +28,6 @@ links:
     description: 我们生活在大地上，但我们的梦想超越天空
     website: https://www.mbrjun.cn/
     image: https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg
-  - title: Remi IO
-    description: Code & Kigurumi
-    website: https://linux.dog
-    image: https://www.linux.dog/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FRemi_IO_avatar.fb658679.jpeg&w=256&q=75
   - title: 
     description: 
     website: 
