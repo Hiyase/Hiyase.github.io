@@ -24,10 +24,10 @@ links:
     description: 我们生活在大地上，但我们的梦想超越天空
     website: https://www.mbrjun.cn/
     image: https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg
-  - title: 
-    description: 
-    website: 
-    image: 
+  - title: Remi IO
+    description: Code & Kigurumi
+    website: https://linux.dog
+    image: https://www.linux.dog/_next/image?url=%2F_next%2Fstatic%2Fmedia%2FRemi_IO_avatar.fb658679.jpeg&w=256&q=75
 
 #留给下一个人自己填写
 
