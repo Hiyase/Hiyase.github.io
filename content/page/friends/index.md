@@ -20,6 +20,10 @@ links:
     description: 一只可爱的猫猫wwww
     website: https://www.qwq.icu/
     image: https://avatars.githubusercontent.com/u/49067249?v=4
+  - title: WeepingDogel
+    description: 是一只笨狗
+    website: https://weepingdogel.github.io
+    image: https://weepingdogel.github.io/photo_2021-07-21_03-31-50.jpg
   - title: 璃沫莫的小木屋
     description: 一杯奶茶学一天！
     website: https://youkiakito.github.io/
