@@ -28,6 +28,10 @@ links:
     description: 我们生活在大地上，但我们的梦想超越天空
     website: https://www.mbrjun.cn/
     image: https://cos.mbrjun.cn/PICS/LG4v3avatar144px.jpg
+  - title: 冰音Project
+    description: 永远喜欢露娜sama
+    website: https://www.9bingyin.com
+    image: https://img.9bingyin.com/blogo.png
   - title: 
     description: 
     website: 
