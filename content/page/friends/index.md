@@ -36,6 +36,10 @@ links:
     description: 永远喜欢露娜sama
     website: https://www.9bingyin.com
     image: https://img.9bingyin.com/blogo.png
+  - title: Unknown blog
+    description: 某只tdiant的胡言乱语
+    website: https://blog.tdiant.net
+    image: https://nyan.best/avatar.jpg
   - title: 
     description: 
     website: 
