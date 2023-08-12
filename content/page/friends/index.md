@@ -44,7 +44,6 @@ links:
     description: flag{Good_Good_Study_Day_Day_Up}
     website: https://yunoon.com
     image: https://yuno0n.top/logo1.png
-
   - title: 
     description: 
     website: 
