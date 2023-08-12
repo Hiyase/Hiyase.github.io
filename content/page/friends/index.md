@@ -40,6 +40,11 @@ links:
     description: 永远喜欢露娜sama
     website: https://www.9bingyin.com
     image: https://img.9bingyin.com/blogo.png
+  - title: Yunoon的奇妙小木屋
+    description: flag{Good_Good_Study_Day_Day_Up}
+    website: https://yunoon.com
+    image: https://yuno0n.top/logo1.png
+
   - title: 
     description: 
     website: 
