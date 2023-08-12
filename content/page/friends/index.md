@@ -20,6 +20,10 @@ links:
     description: 一只可爱的猫猫wwww
     website: https://www.qwq.icu/
     image: https://avatars.githubusercontent.com/u/49067249?v=4
+  - title: 残页的小博客
+    description: 残页的小博客
+    website: https://blog.canyie.top/
+    image: https://blog.canyie.top/data/image/avatar_round_new.png
   - title: WeepingDogel
     description: 是一只笨狗
     website: https://weepingdogel.github.io
@@ -36,10 +40,6 @@ links:
     description: 永远喜欢露娜sama
     website: https://www.9bingyin.com
     image: https://img.9bingyin.com/blogo.png
-  - title: Unknown blog
-    description: 某只tdiant的胡言乱语
-    website: https://blog.tdiant.net
-    image: https://nyan.best/avatar.jpg
   - title: 
     description: 
     website: 
@@ -61,8 +61,8 @@ comments: false #是否开启评论
 本站信息：
 
 ```yaml
-title: 冷曦的喵喵小屋
-description: 愿每个人都被温柔以待
-website: https://Hiyase.github.io
-image: https://Hiyase.github.io/friends/img/hiyase.github.io.jpeg
+  - title: 冷曦的喵喵小屋
+    description: 愿每个人都被温柔以待
+    website: https://Hiyase.github.io
+    image: https://Hiyase.github.io/friends/img/hiyase.github.io.jpeg
 ```
