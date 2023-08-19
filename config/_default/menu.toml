@@ -6,6 +6,7 @@
 #[main.params]
 #icon = "home"
 #newtab = true
+#图标来源 https://tablericons.com/
 
 [[social]]
 weight = 1
@@ -30,3 +31,19 @@ name = "Telegram"
 url = "https://t.me/END_Sen"
 [social.params]
 icon = "brand-telegram"
+
+[[social]]
+weight = 4
+identifier = "mail"
+name = "Mail"
+url = "mailto:END.Send233@gmail.com"
+[social.params]
+icon = "mail"
+
+[[social]]
+weight = 5
+identifier = "rss"
+name = "RSS"
+url = "index.xml"
+[social.params]
+icon = "RSS"
