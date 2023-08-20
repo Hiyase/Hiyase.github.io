@@ -55,13 +55,13 @@ limit = 10
 type = "toc"
 
 [opengraph.twitter]
-site = ""
+site = "Hiyase_Nya"
 card = "summary_large_image"
 
 [defaultImage.opengraph]
-enabled = false
+enabled = true
 local = false
-src = ""
+src = "img/avatar.jpeg"
 
 [colorScheme]
 toggle = true
