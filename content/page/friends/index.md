@@ -44,6 +44,10 @@ links:
     description: flag{Good_Good_Study_Day_Day_Up}
     website: https://yunoon.com
     image: https://yuno0n.top/logo1.png
+  - title: Cynosura
+    description: Trying to light up the dark.
+    website: https://cynosura.one/
+    image: https://cynosura.one/img/avatar.webp
   - title: 
     description: 
     website: 
@@ -61,7 +65,7 @@ menu:
 
 comments: false #是否开启评论
 ---
-我的友链都在这！ 申请友链可以在 [Github 修改此页面](https://github.com/Hiyase/Hiyase.github.io/edit/master/content/page/friends/index.md) 然后创建 Pull Request 或者直接联系我 **眼熟程度不够的话是不会加的哦**（x  
+我的友链都在这！ 申请友链可以在 [Github 修改此页面](https://github.com/Hiyase/Hiyase.github.io/edit/master/content/page/friends/index.md) 然后创建 Pull Request 或者直接联系我 **需要眼熟哦～**（x  
 本站信息：
 
 ```yaml
