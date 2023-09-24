@@ -48,6 +48,10 @@ links:
     description: Trying to light up the dark.
     website: https://cynosura.one/
     image: https://cynosura.one/img/avatar.webp
+  - title: 色妹妹的船新博客
+    description: 好耶, 是另一个垃圾堆~
+    website: https://sbchild.top/blog/
+    image: https://sbchild.top/blog/apple-touch-icon.png
   - title: 
     description: 
     website: 
