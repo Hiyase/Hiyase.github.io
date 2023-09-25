@@ -51,7 +51,7 @@ links:
   - title: 色妹妹的船新博客
     description: 好耶, 是另一个垃圾堆~
     website: https://sbchild.top/blog/
-    image: https://sbchild.top/blog/apple-touch-icon.png
+    image: https://sbchild.top/blog/hotlink-ok/apple-touch-icon.png
   - title: 
     description: 
     website: 
