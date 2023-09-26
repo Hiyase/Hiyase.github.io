@@ -19,3 +19,11 @@
 		}
 	}
 }
+
+// 移动端友链头像圆角!
+@media(max-width:1023px) {
+  .article-list--compact article .article-image img {
+    border-radius: 50%;
+    transform: scale(1.2) translateX(-3px) translateY(2px);
+  }
+}
