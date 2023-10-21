@@ -44,6 +44,6 @@ icon = "mail"
 weight = 5
 identifier = "rss"
 name = "RSS"
-url = "index.xml"
+url = "/index.xml"
 [social.params]
 icon = "RSS"
