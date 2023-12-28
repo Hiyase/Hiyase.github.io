@@ -52,6 +52,10 @@ links:
     description: 好耶, 是另一个垃圾堆~
     website: https://sbchild.top/blog/
     image: https://sbchild.top/blog/hotlink-ok/apple-touch-icon.png
+  - title: Unknown blog
+    description: 某只tdiant的胡言乱语
+    website: https://blog.tdiant.net
+    image: https://nyan.best/avatar.jpg
   - title: 
     description: 
     website: 
