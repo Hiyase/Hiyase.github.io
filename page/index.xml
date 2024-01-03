@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Pages on 冷曦的喵喵小屋</title><link>https://hiyase.github.io/page/</link><description>Recent content in Pages on 冷曦的喵喵小屋</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 25 Sep 2022 00:00:00 +0000</lastBuildDate><atom:link href="https://hiyase.github.io/page/index.xml" rel="self" type="application/rss+xml"/><item><title>关于</title><link>https://hiyase.github.io/about/</link><pubDate>Sun, 25 Sep 2022 00:00:00 +0000</pubDate><guid>https://hiyase.github.io/about/</guid><description>&lt;h2 id="你好欢迎来到关于页面这里是关于我的自我介绍">你好，欢迎来到关于页面，这里是关于我的自我介绍&lt;/h2>
+&lt;blockquote>
+&lt;p>我是一个愿世间一切安好的普通人，对程序有所逻辑思维，希望学习程序&lt;br>
+但实际上,从来没正式的写过程序，大约07年左右接触电脑，总是对计算机充满兴趣爱好&lt;br>
+缺乏学习动力，更适合在工作中学习新东西，会对各种各样有意思的程序感兴趣&lt;br>
+虽然…………我至今仍然并不会写程序&lt;/p>
+&lt;/blockquote>
+&lt;p>我自认为我并不勤奋，相反，我非常懒惰，但我会很真实的告诉你，我很懒&lt;br>
+我认为真诚比欺骗更强，虽然我也会有善意的谎言吧&lt;br>
+我想学习更多关于计算机的一切，嗯，一切&amp;hellip;吧&lt;br>
+也不知道我的懒惰能不能让我学下去 :D&lt;/p>
+&lt;p>我更感兴趣的方向：计算机运维/网络运维&lt;/p>
+&lt;p>(下面是分割线 是我并不满意的人生 但事实是这样，也应该没有人的人生会是完美的)&lt;br>
+&lt;mark>说实话我并不想让你看，我这不满意而又真实的人生&lt;/mark>&lt;/p>
+&lt;blockquote>
+&lt;/blockquote>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;h3 id="我知道下面我的的经历或好或坏但这是我的经历是我的人生回顾我的人生然后向前进发">我知道下面我的的经历或好或坏，但这是我的经历，是我的人生，回顾我的人生，然后向前进发&lt;/h3>
+&lt;p>时间线 ：&lt;/p>
+&lt;p>从小时候，从 四年级 我就遭受着校园暴力，殴打，一遍又一遍的殴打。&lt;br>
+有一次，施暴者拽着我去他家那边，对着一个亲戚那么问到：“&lt;code>你看他，是不是傻&lt;/code>”&lt;br>
+他的亲戚那么回到：“&lt;code>不是傻，只是老实罢了，别老欺负老实人。&lt;/code>”&lt;br>
+&lt;a class="link" href="https://hiyase.github.io/about" >人心狡诈，曾有一人也是他的施暴对象，改成我之后，那人曾也坑过我&lt;/a>&lt;br>
+校园暴力持续到大约六年级，不是因为他看开了，是因为他没有上初中&lt;br>
+有人问，你不会还手吗？ 会，但在那种情况，有什么用呢，我还曾经拿着板凳追着他满学校跑呢&lt;br>
+也有人问，你不会告老师吗？ 也不是没有尝试过，但老师又能护卫什么呢，学校里都不能护住&lt;br>
+上面两个尝试，最后都只会导致 对方叫上三四个人，在回家的必经路上，拦住我，然后被打的浑身痛&lt;br>
+初中之后吧&amp;hellip;由于小学的那种名声，本来就有不少人知道我，虽然也遭受了不少冷暴力，但我也宁愿孤寂吧&lt;/p>
+&lt;p>&lt;mark>也许我从未长大，也许我变了，不是在卖可怜，我只是在讲述我自己，那个悲惨的少年&lt;/mark>&lt;br>
+下面讲程序历程了，也会讲人生历程，毕竟我是按时间线讲&lt;br>
+因为从今年(2023)开始写的，所以人生历程也会在这个阶段后开始写&lt;/p>
+&lt;p>大约 2009 年 把家里的电脑&lt;strong>格式化安装&lt;/strong>为了&lt;code>CentOS&lt;/code>&lt;br>
+因为是&lt;strong>格式化安装&lt;/strong>，我想，我当时离被打就差一点点，不过，这也是之后我很长时间不折腾了的原因&lt;/p>
+&lt;p>大约 2014 年 发现了易语言这个“玩具” 自己通过别人的模块，写了一个非常简单的&lt;code>MineCraft&lt;/code>启动器&lt;br>
+由于非常简单，再加上是易语言写的，这个“玩具”也从来没有发布过 (仍然记得是易语言5.3)&lt;/p>
+&lt;p>大约 2015-2017 年 瞎折腾了系统自带的IIS，简单建立了一个web服务，改了些路由器设置，端口映射，DDNS&lt;br>
+在这个过程中简单的搓着&lt;code>MineCraft&lt;/code>，那之前还碰了hamachi这个内网穿透软件&lt;br>
+在自己开了自己的MineCraft服务器，过程有自己家电脑设立，买服务器开设，但其实也没多少人玩
+这个过程也养成了一些刷机爱好，保留至今&lt;/p>
+&lt;p>在 2018 年 之后 去了电脑城打工，虽然是工作了，但折腾东西其实也多了&lt;br>
+对Windows的理解更深刻了一些，对各类硬件情况更了解了些&lt;br>
+折腾了路由器程序，折腾了黑苹果，从头到尾安装了&lt;code>ArchLinux&lt;/code>&lt;br>
+养成了一种Windows的文件的使用习惯&lt;br>
+有了自己赚钱买的电脑，买了自行车，虽然没攒几个钱&lt;/p>
+&lt;p>在 2022 年 年底 辞掉了电脑城的工作&lt;br>
+回了老家，想要休息一段时间，我觉得我活的很累，电脑城打工那几年到现在，逐渐有些抑郁&lt;/p>
+&lt;p>在 2023 年 年初 家里人有点催我出去工作的意思，我是不想出去的，我想好好休息一段时间&lt;br>
+可能说，三个月不够我休息吗，我会说不够，我想休息，我疲于应付我的人际关系，我不想应付&lt;br>
+我可能会想要找个环境，自己，一个人在那，折腾自己想要折腾的程序，打自己想玩的游戏。&lt;/p>
+&lt;blockquote>
+&lt;p>未来的经历还待续 （我不会写出现有工作信息）所以，这篇，自我说明，就到这了&lt;/p>
+&lt;/blockquote></description></item><item><title>归档</title><link>https://hiyase.github.io/archives/</link><pubDate>Sun, 06 Mar 2022 00:00:00 +0000</pubDate><guid>https://hiyase.github.io/archives/</guid><description/></item><item><title>搜索</title><link>https://hiyase.github.io/search/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hiyase.github.io/search/</guid><description/></item><item><title>友链</title><link>https://hiyase.github.io/friends/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://hiyase.github.io/friends/</guid><description>&lt;p>我的友链都在这！ 申请友链可以在 &lt;a class="link" href="https://github.com/Hiyase/Hiyase.github.io/edit/master/content/page/friends/index.md" target="_blank" rel="noopener"
+>Github 修改此页面&lt;/a> 然后创建 Pull Request 或者直接联系我 &lt;strong>需要眼熟哦～&lt;/strong>（x&lt;br>
+本站信息：&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-yaml" data-lang="yaml">&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>- &lt;span class="nt">title&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">冷曦的喵喵小屋&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">description&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">愿每个人都被温柔以待&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">website&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://Hiyase.github.io&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="w"> &lt;/span>&lt;span class="nt">image&lt;/span>&lt;span class="p">:&lt;/span>&lt;span class="w"> &lt;/span>&lt;span class="l">https://Hiyase.github.io/friends/img/hiyase.github.io.jpeg&lt;/span>&lt;span class="w">
+&lt;/span>&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div></description></item></channel></rss>

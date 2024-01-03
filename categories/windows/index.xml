@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Windows on 冷曦的喵喵小屋</title><link>https://hiyase.github.io/categories/windows/</link><description>Recent content in Windows on 冷曦的喵喵小屋</description><generator>Hugo -- gohugo.io</generator><language>zh-cn</language><lastBuildDate>Sun, 08 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://hiyase.github.io/categories/windows/index.xml" rel="self" type="application/rss+xml"/><item><title>Windows文件管理哲学</title><link>https://hiyase.github.io/p/how-to-manager-your-windows-files/</link><pubDate>Sun, 08 Oct 2023 00:00:00 +0000</pubDate><guid>https://hiyase.github.io/p/how-to-manager-your-windows-files/</guid><description>&lt;h2 id="前言">前言&lt;/h2>
+&lt;p>我见过好多人文件管理规则并不规范，虽然规范是人定义的，但是如果你按照我说的去管理，实际上你会舒服很多，会让你想要找的东西更好找，而不是在一堆垃圾堆里去翻找（一种形容）&lt;/p>
+&lt;h2 id="管理方法">管理方法&lt;/h2>
+&lt;h3 id="磁盘分区">磁盘分区&lt;/h3>
+&lt;p>我的习惯分为三份，同时我也建议这么分区，另外如果你熟练了我这种习惯,你也可以这么分&lt;br>
+这里假设你的硬盘比较小，你有一个 128GB 的固态硬盘 一个1T的机械硬盘&lt;br>
+我的建议是单独128G硬盘作为系统，1T机械盘分为两个区，一个游戏，一个程序&lt;br>
+如果你不打游戏，用作游戏的分区用来放各类源码，或者是文档，也是好的&lt;/p>
+&lt;h3 id="文件管理">&lt;em>&lt;strong>&lt;strong>文件管理&lt;/strong>&lt;/strong>&lt;/em>&lt;/h3>
+&lt;p>首先，我是在假设你的系统盘比较小的情况，进行管理的，所以不会放太多东西&lt;br>
+这样做也会让你一眼看过去就知道是什么，我希望你刚刚安装完的系统，而不是混乱的&lt;/p>
+&lt;h4 id="c盘系统盘的管理">C盘(系统盘)的管理&lt;/h4>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">C:\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├──Program Files #程序目录
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├──Program Files (x86) #程序目录(32位程序)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├──Windows #系统目录
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└──Users #用户目录
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>以上是在未显示隐藏文件的情况下，默认有四个文件夹，最好的管理就是不加任何东西&lt;br>
+大多程序都默认装在 &lt;code>C:\Program Files (x86)\&lt;/code>里面的原因，就是因为它是程序目录
+所以实际上在这很合理，如果要更改目录，也建议更改最前面的卷标 &lt;code>C:\&lt;/code> 到 &lt;code>E:\&lt;/code> 这样操作&lt;/p>
+&lt;h4 id="d盘的游戏代码盘管理">D盘的(游戏/代码盘)管理&lt;/h4>
+&lt;p>以下是假设你的盘是游戏盘，文件如此规划&lt;br>
+如果是程序盘&amp;hellip;自己开心就好&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt">1
+&lt;/span>&lt;span class="lnt">2
+&lt;/span>&lt;span class="lnt">3
+&lt;/span>&lt;span class="lnt">4
+&lt;/span>&lt;span class="lnt">5
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">D:\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├──SteamLibrary #Steam的游戏目录，你可以手动设置在这
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└──*
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">你可以把任意平台的游戏都单独建立一个文件夹，这是个好习惯
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">由于它会是第一个分区，即便是机械盘，理论性能效率也会稍微好一点点点点....
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>这里不是重点，重点是下面&lt;/p>
+&lt;h4 id="e盘程序杂项盘的管理">&lt;em>&lt;strong>&lt;strong>E盘(程序/杂项盘)的管理&lt;/strong>&lt;/strong>&lt;/em>&lt;/h4>
+&lt;p>&lt;em>&lt;strong>&lt;strong>这里就是整篇文章的重点&lt;/strong>&lt;/strong>&lt;/em>&lt;/p>
+&lt;div class="highlight">&lt;div class="chroma">
+&lt;table class="lntable">&lt;tr>&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code>&lt;span class="lnt"> 1
+&lt;/span>&lt;span class="lnt"> 2
+&lt;/span>&lt;span class="lnt"> 3
+&lt;/span>&lt;span class="lnt"> 4
+&lt;/span>&lt;span class="lnt"> 5
+&lt;/span>&lt;span class="lnt"> 6
+&lt;/span>&lt;span class="lnt"> 7
+&lt;/span>&lt;span class="lnt"> 8
+&lt;/span>&lt;span class="lnt"> 9
+&lt;/span>&lt;span class="lnt">10
+&lt;/span>&lt;span class="lnt">11
+&lt;/span>&lt;span class="lnt">12
+&lt;/span>&lt;span class="lnt">13
+&lt;/span>&lt;span class="lnt">14
+&lt;/span>&lt;span class="lnt">15
+&lt;/span>&lt;/code>&lt;/pre>&lt;/td>
+&lt;td class="lntd">
+&lt;pre tabindex="0" class="chroma">&lt;code class="language-text" data-lang="text">&lt;span class="line">&lt;span class="cl">E:\
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├──Program Files #程序目录(在这有一份，方便你把程序放在这)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├──Clash for Windows
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├──Notepad3 #高级记事本
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├──Steam #嗯...
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├──VSCode #代码编辑器、高级记事本（浏览器(确信)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ └──...
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">├──Program Files (x86) #程序目录(32位程序,也可以不建立/使用,但建议)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ ├──Tencent #腾讯家的程序(QQ/微信放里)
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">│ └──...
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">└──UserData #用户数据文件夹
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ├──Desktop #桌面，这样不用担心桌面被塞满
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ├──Documents #文档，微信和QQ都会把数据存到文档,减少C盘占用
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> ├──Downloads #下载，下载的东西都放这边,也可以建下级目录
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> └──... #图片/视频之类你任何想放这里的
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/td>&lt;/tr>&lt;/table>
+&lt;/div>
+&lt;/div>&lt;p>另外提一个我自己的小习惯&lt;br>
+所有在 &lt;code>E:\Program..\&lt;/code>下的所有程序，我都会习惯性的给程序的文件夹设置上图标&lt;/p>
+&lt;h2 id="最后">最后&lt;/h2>
+&lt;p>说实话，我非常建议每个人都这么有序的放置文件，和程序，即便你不习惯&lt;br>
+因为你能很快的找到目录，不必担心有什么东西找不到&lt;/p></description></item></channel></rss>
