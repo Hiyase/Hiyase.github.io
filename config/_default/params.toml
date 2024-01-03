@@ -5,8 +5,8 @@ rssFullContent = true
 favicon = "/avatar.jpeg"
 
 [footer]
-since = 2023
-customText = "<a href='https://icp.gov.moe/?keyword=20233721' target='_blank'>萌ICP备20233721号</a></br>Hiyase’s Blog"
+since = 2024
+customText = "<a href="https://icp.gov.moe/?keyword=20249995" target="_blank">萌ICP备20249995号</a></br>Hiyase’s Blog"
 
 [dateFormat]
 published = "2006/01/02"
